@@ -28,10 +28,10 @@
         "symfony/serializer": "5.2.*",
         "symfony/twig-bundle": "5.2.*",
         "symfony/validator": "5.2.*",
-        "symfony/yaml": "5.2.*"
+        "symfony/yaml": "5.2.*",
+        "symfony/maker-bundle": "^1.30"
     },
     "require-dev": {
-        "symfony/maker-bundle": "^1.30"
     },
     "config": {
         "optimize-autoloader": true,
